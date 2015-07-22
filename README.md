@@ -9,7 +9,6 @@ This is a early stage of development.
 The very noticeable issues include:
 
     The inactive window receives a weird white border at the top.
-    If a window is maximized the buttons are not centered.
   
 Things that need to be changed are as follows:
   
