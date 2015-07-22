@@ -14,4 +14,7 @@ Things that need to be changed are as follows:
   
     The edges on the top should be rounded.
     It should be borderless except for the top.
+    
+Note:
+    I corrected the weird button not centering when maximized, this is not in a release yet as I am working to fix all issues and things to be changed first before a new release.  This change is available in the source code though.
 
