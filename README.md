@@ -5,13 +5,11 @@ This was inspired by the LinuxMasterRace subreddit front page: http://reddit.com
 
 This is basically A fork of http://kde-look.org/content/show.php/Yosemite?content=168983, but this adds dark window decoration instead of the default that would appear in Mac OS X.
 
-This is a early stage of development.
+This release marks the end of the project as I have now moved to i3, and no longer have a motive to work on the project.  The project is done with the only issue being that the edges should be rounded.  I have only the slightest idea of how to do this unfortunately.  If someone would like to complete the project, I recommend forking it with DarkYosemiteRound...
 
 Things that need to be changed are as follows:
   
     The edges on the top should be rounded.
-    It should be borderless except for the top.
-    
-Note:
-    I corrected the weird button not centering when maximized, I also indirectly solved the inactive window having a white border by just editing the decoration file, this is not in a release yet as I am working to fix all issues and things to be changed first before a new release.  This change is available in the source code though.
+
+
 
